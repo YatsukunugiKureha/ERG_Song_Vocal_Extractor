@@ -7,4 +7,5 @@ Deep Learning based Vocal Extractor that predicts the vocal track(s) from the mi
 # Background
 Vocal Separation from the master track (w/o instrumental) is the most important issue for "us".
 
+# Model Architecture
 
